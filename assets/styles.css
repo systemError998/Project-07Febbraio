@@ -1,0 +1,18 @@
+.colori {
+    color: #BADFF5;
+    color: #7799C0;
+    color: #507CAB;
+    color: #4F7AA7;
+    color: #072453;
+    color: #000E21;
+}
+
+.body {
+    background-color: red;
+}
+
+.authorLink:hover {
+    color: #4F7AA7;
+    text-decoration: underline;
+    text-decoration-color: #4F7AA7;
+}
